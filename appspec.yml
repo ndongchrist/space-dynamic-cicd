@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files: 
   - source: /
-    destination: /home/ubuntu/projet-space
+    destination: /home/ubuntu/project-space
 permissions:
-  - object: /home/ubuntu/projet-space
+  - object: /home/ubuntu/project-space
     owner: ubuntu
     group: ubuntu
 hooks:
