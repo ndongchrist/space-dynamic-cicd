@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files: 
   - source: /
-    destination: /home/ubuntu/project-space
+    destination: /home/ubuntu/project-space/
 permissions:
   - object: /home/ubuntu/project-space
     owner: ubuntu
